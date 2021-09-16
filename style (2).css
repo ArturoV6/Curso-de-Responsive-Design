@@ -90,7 +90,6 @@ header .header--img{
     border: none;
     font-weight: bold;
     font-size: 1.4rem;
-    text-decoration: none;
     color: var(--warm-black);
 }
 
